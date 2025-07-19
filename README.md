@@ -34,6 +34,6 @@ Examines demographic and clinical data of OCD patients to find meaningful insigh
 - Scikit-learn
 - Jupyter Notebook
 
-Each project folder includes its own `README.md` with detailed explanation and code.
+Each project folder includes its own `README.md` with explanation.
 
 
